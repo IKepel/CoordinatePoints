@@ -1,0 +1,14 @@
+C:\Users\popov\Desktop\Courses_С#\Pro\2_lesson\CoordinatePoints\CoordinatePoints\bin\Debug\net6.0\CoordinatePoints.exe
+C:\Users\popov\Desktop\Courses_С#\Pro\2_lesson\CoordinatePoints\CoordinatePoints\bin\Debug\net6.0\CoordinatePoints.deps.json
+C:\Users\popov\Desktop\Courses_С#\Pro\2_lesson\CoordinatePoints\CoordinatePoints\bin\Debug\net6.0\CoordinatePoints.runtimeconfig.json
+C:\Users\popov\Desktop\Courses_С#\Pro\2_lesson\CoordinatePoints\CoordinatePoints\bin\Debug\net6.0\CoordinatePoints.dll
+C:\Users\popov\Desktop\Courses_С#\Pro\2_lesson\CoordinatePoints\CoordinatePoints\bin\Debug\net6.0\CoordinatePoints.pdb
+C:\Users\popov\Desktop\Courses_С#\Pro\2_lesson\CoordinatePoints\CoordinatePoints\obj\Debug\net6.0\CoordinatePoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popov\Desktop\Courses_С#\Pro\2_lesson\CoordinatePoints\CoordinatePoints\obj\Debug\net6.0\CoordinatePoints.AssemblyInfoInputs.cache
+C:\Users\popov\Desktop\Courses_С#\Pro\2_lesson\CoordinatePoints\CoordinatePoints\obj\Debug\net6.0\CoordinatePoints.AssemblyInfo.cs
+C:\Users\popov\Desktop\Courses_С#\Pro\2_lesson\CoordinatePoints\CoordinatePoints\obj\Debug\net6.0\CoordinatePoints.csproj.CoreCompileInputs.cache
+C:\Users\popov\Desktop\Courses_С#\Pro\2_lesson\CoordinatePoints\CoordinatePoints\obj\Debug\net6.0\CoordinatePoints.dll
+C:\Users\popov\Desktop\Courses_С#\Pro\2_lesson\CoordinatePoints\CoordinatePoints\obj\Debug\net6.0\refint\CoordinatePoints.dll
+C:\Users\popov\Desktop\Courses_С#\Pro\2_lesson\CoordinatePoints\CoordinatePoints\obj\Debug\net6.0\CoordinatePoints.pdb
+C:\Users\popov\Desktop\Courses_С#\Pro\2_lesson\CoordinatePoints\CoordinatePoints\obj\Debug\net6.0\CoordinatePoints.genruntimeconfig.cache
+C:\Users\popov\Desktop\Courses_С#\Pro\2_lesson\CoordinatePoints\CoordinatePoints\obj\Debug\net6.0\ref\CoordinatePoints.dll
