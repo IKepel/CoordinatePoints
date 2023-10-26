@@ -8,4 +8,3 @@ int distance2 = point1.GetDistanceToPoint(point2);
 
 Console.WriteLine($"Static method distance = {distance1}");
 Console.WriteLine($"Simple metod distance = {distance2}");
-Console.WriteLine($"Number of points = {Point.Counter}");

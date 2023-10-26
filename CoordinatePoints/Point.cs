@@ -12,7 +12,7 @@ namespace CoordinatePoints
 
         private double _y;
 
-        public static int Counter;
+        private static int _counter;
 
         /// <summary>
         /// Initializes a new instance of the Point class with the specified coordinates. 
@@ -23,7 +23,7 @@ namespace CoordinatePoints
         {
             _x = x;
             _y = y;
-            Counter++;
+            _counter++;
         }
 
         /// <summary>
